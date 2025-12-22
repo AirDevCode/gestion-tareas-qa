@@ -112,4 +112,4 @@ Este repositorio evidencia el cumplimiento del Anexo II y la correcta aplicació
 ---
 
 ## Autor
-Repositorio creado por *[Tu Nombre]* para la actividad académica del curso de **Pruebas de Software y Aseguramiento de la Calidad**.
+Repositorio creado por *Isabel Rojas* para la actividad académica del curso de **Pruebas de Software y Aseguramiento de la Calidad**.
